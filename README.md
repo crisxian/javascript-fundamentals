@@ -1,3 +1,5 @@
+https://github.com/hackreactor/jsconf2014 cloned April 7, 2015 for educational purposes
+
 ## Welcome
 We're glad to have you in class! Here's a quick overview of some things you'll want to know as we get started.
 
