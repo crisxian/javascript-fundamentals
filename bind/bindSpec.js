@@ -29,7 +29,7 @@ describe('bind', function () {
      */
 
 
-    /*
+    
     it('returns a function that proxies the original function', function () {
 
       // setup
@@ -46,7 +46,7 @@ describe('bind', function () {
       greet = original;
 
     });
-    */
+    
 
 
   });
@@ -104,7 +104,7 @@ describe('bind', function () {
      * Uncomment the following test block if you would like to enable the test.
      */
 
-    /*
+    
     it('calls the target function with the same number of arguments as were passed to the proxy function', function(){
 
       // setup
@@ -138,7 +138,7 @@ describe('bind', function () {
       // cleanup
       boundLawyerGreet = original;
     });
-    */
+    
 
   });
 
@@ -166,7 +166,7 @@ describe('bind', function () {
      * Uncomment the following test block if you would like to enable the test.
      */
 
-    /*
+    
     it('returns a function that proxies the original function', function(){
 
       // setup
@@ -182,7 +182,7 @@ describe('bind', function () {
       // cleanup
       personalGreet = original;
     });
-    */
+    
 
     it('runs the target function in the context of the target object, when invoked as a free function', function () {
       var sentence = boundPersonalGreet();
